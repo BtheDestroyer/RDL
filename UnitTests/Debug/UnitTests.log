@@ -1,0 +1,3 @@
+﻿  gtest-all.cc
+  gtest_main.cc
+LINK : fatal error LNK1104: cannot open file 'Launcher.lib'
